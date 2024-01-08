@@ -5,8 +5,6 @@ public class Main {
         array2=new int[3];
 
 
-
-
     }
 }
 
